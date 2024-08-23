@@ -44,7 +44,7 @@ int main()
 }
 ```
 O/P:
-
+![image](https://github.com/user-attachments/assets/ccc586b7-0b2b-43dc-8f10-c8ff5f9a020e)
 
 
 2. 1D Array of pointers:
@@ -74,6 +74,8 @@ int main()
 }
 ```
 O/P:
+![image](https://github.com/user-attachments/assets/915fcf2c-ba15-46db-9e30-860ddfdc56ca)
+
 
 
 # Conclusion 
